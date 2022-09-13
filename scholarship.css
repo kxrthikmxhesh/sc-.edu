@@ -1,0 +1,169 @@
+.header{
+    width: 100%;
+    height: 110px;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.main-body{
+    margin: 0;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.logo-img{
+    height: 95px;
+    padding-left: 10px;
+    padding-top: 7px;
+    float: left;
+}
+.welcome-text{
+    color: rgb(65, 65, 65);
+    font-size: 40px;
+    font-weight: bolder;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.starting-img{
+    width: 100%;
+    height: 500px;
+    filter: blur(1px);
+}
+.pop{
+    padding-left: 10px;
+    font-size: x-large;
+    text-decoration: underline;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+
+}
+.USA{
+    padding-left: 0px;
+    width: 170px;
+    padding: 10px;
+    border: 5px solid blue;
+    margin: 0;
+    border-radius: 20px;
+    float: left;
+    margin-left: 5px;
+}
+.USA-text{
+    border-radius: 5px;
+    padding-left: 20px;
+}
+.Clickme{
+    padding-left: 10px;
+}
+.AUS{
+    padding-left: 0px;
+    width: 170px;
+    padding: 10px;
+    border: 5px solid blue;
+    margin: 0;
+    border-radius: 20px;
+    float: left;
+    margin-left: 30px;
+}
+.AUS-text{
+    border-radius: 5px;
+    padding-left: 20px;
+}
+.SG{
+    padding-left: 0px;
+    width: 170px;
+    padding: 10px;
+    border: 5px solid blue;
+    margin: 0;
+    border-radius: 20px;
+    float: left;
+    margin-left: 30px;
+}
+.SG-text{
+    border-radius: 5px;
+    padding-left: 20px;
+}
+.UK{
+    padding-left: 0px;
+    width: 170px;
+    padding: 10px;
+    border: 5px solid blue;
+    margin: 0;
+    border-radius: 20px;
+    float: left;
+    margin-left: 30px;
+}
+.UK-text{
+    border-radius: 5px;
+    padding-left: 20px;
+}
+.OM{
+    padding-left: 0px;
+    width: 170px;
+    padding: 10px;
+    border: 5px solid blue;
+    margin: 0;
+    border-radius: 20px;
+    float: left;
+    margin-left: 30px;
+}
+.OM-text{
+    border-radius: 5px;
+    padding-left: 20px;
+}
+.CN{
+    padding-left: 0px;
+    width: 170px;
+    padding: 10px;
+    border: 5px solid blue;
+    margin: 0;
+    border-radius: 20px;
+    float: left;
+    margin-left: 30px;
+}
+.CN-text{
+    border-radius: 5px;
+    padding-left: 20px;
+}
+.centre-body{
+    margin-bottom: 20px;
+}
+.live{
+    float: right;
+    margin-right: 30px;
+    margin-top: 20px;
+    color: rgb(0, 0, 0);
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dis{
+    font-size: x-large;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+.team{
+    font-size: x-large;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.main-body{
+    background: whitesmoke;
+}
+.Clickme{
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    height: 100%;
+}
+.pop-c{
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    height: 120px;
+}
+.mec{
+    float: right;
+    height: 70px;
+}
